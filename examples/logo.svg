@@ -1,0 +1,9 @@
+
+            <svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+                
+            <circle cx="300" cy="200" r="160" fill="Green" />
+            <text x="300" y="200" dominant-baseline="middle" text-anchor="middle" fill="Green" font-size="undefined" font-weight="undefined">Your Text</text>
+         // Pass shape position and size parameters
+                <text x="300" y="200" dominant-baseline="middle" text-anchor="middle" fill="Black" font-size="24" font-weight="bold">JWC</text>
+            </svg>
+        
